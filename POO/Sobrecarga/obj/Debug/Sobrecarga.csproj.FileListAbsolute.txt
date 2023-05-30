@@ -1,0 +1,8 @@
+C:\Users\Aluno\Desktop\POO\POO\Sobrecarga\bin\Debug\Sobrecarga.exe.config
+C:\Users\Aluno\Desktop\POO\POO\Sobrecarga\bin\Debug\Sobrecarga.exe
+C:\Users\Aluno\Desktop\POO\POO\Sobrecarga\bin\Debug\Sobrecarga.pdb
+C:\Users\Aluno\Desktop\POO\POO\Sobrecarga\obj\Debug\Sobrecarga.csproj.AssemblyReference.cache
+C:\Users\Aluno\Desktop\POO\POO\Sobrecarga\obj\Debug\Sobrecarga.csproj.SuggestedBindingRedirects.cache
+C:\Users\Aluno\Desktop\POO\POO\Sobrecarga\obj\Debug\Sobrecarga.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\Desktop\POO\POO\Sobrecarga\obj\Debug\Sobrecarga.exe
+C:\Users\Aluno\Desktop\POO\POO\Sobrecarga\obj\Debug\Sobrecarga.pdb
