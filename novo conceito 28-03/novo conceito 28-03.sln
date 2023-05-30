@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33516.290
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "novo conceito 28-03", "novo conceito 28-03\novo conceito 28-03.csproj", "{3433EBDE-740C-4403-9A3C-7E16F8E43D8A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ListaAgenda", "ListaAgenda\ListaAgenda.csproj", "{640A5DA7-3ADF-403C-8F78-09F66CC86C85}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3433EBDE-740C-4403-9A3C-7E16F8E43D8A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3433EBDE-740C-4403-9A3C-7E16F8E43D8A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3433EBDE-740C-4403-9A3C-7E16F8E43D8A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3433EBDE-740C-4403-9A3C-7E16F8E43D8A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{640A5DA7-3ADF-403C-8F78-09F66CC86C85}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{640A5DA7-3ADF-403C-8F78-09F66CC86C85}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{640A5DA7-3ADF-403C-8F78-09F66CC86C85}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{640A5DA7-3ADF-403C-8F78-09F66CC86C85}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7A704328-243A-4E2E-B895-9FF126D7394E}
+	EndGlobalSection
+EndGlobal

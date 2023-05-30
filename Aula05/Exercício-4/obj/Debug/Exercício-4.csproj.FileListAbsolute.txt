@@ -1,0 +1,8 @@
+C:\Users\hdner\OneDrive\Área de Trabalho\POO\Aula05\Exercício-4\bin\Debug\Exercício-4.exe.config
+C:\Users\hdner\OneDrive\Área de Trabalho\POO\Aula05\Exercício-4\bin\Debug\Exercício-4.exe
+C:\Users\hdner\OneDrive\Área de Trabalho\POO\Aula05\Exercício-4\bin\Debug\Exercício-4.pdb
+C:\Users\hdner\OneDrive\Área de Trabalho\POO\Aula05\Exercício-4\obj\Debug\Exercício-4.csproj.AssemblyReference.cache
+C:\Users\hdner\OneDrive\Área de Trabalho\POO\Aula05\Exercício-4\obj\Debug\Exercício-4.csproj.SuggestedBindingRedirects.cache
+C:\Users\hdner\OneDrive\Área de Trabalho\POO\Aula05\Exercício-4\obj\Debug\Exercício-4.csproj.CoreCompileInputs.cache
+C:\Users\hdner\OneDrive\Área de Trabalho\POO\Aula05\Exercício-4\obj\Debug\Exercício-4.exe
+C:\Users\hdner\OneDrive\Área de Trabalho\POO\Aula05\Exercício-4\obj\Debug\Exercício-4.pdb

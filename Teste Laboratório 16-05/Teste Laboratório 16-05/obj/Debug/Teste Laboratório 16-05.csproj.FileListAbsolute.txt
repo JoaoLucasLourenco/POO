@@ -1,0 +1,8 @@
+C:\Users\hdner\OneDrive\Área de Trabalho\POO\Teste Laboratório 16-05\Teste Laboratório 16-05\bin\Debug\Teste Laboratório 16-05.exe.config
+C:\Users\hdner\OneDrive\Área de Trabalho\POO\Teste Laboratório 16-05\Teste Laboratório 16-05\bin\Debug\Teste Laboratório 16-05.exe
+C:\Users\hdner\OneDrive\Área de Trabalho\POO\Teste Laboratório 16-05\Teste Laboratório 16-05\bin\Debug\Teste Laboratório 16-05.pdb
+C:\Users\hdner\OneDrive\Área de Trabalho\POO\Teste Laboratório 16-05\Teste Laboratório 16-05\obj\Debug\Teste Laboratório 16-05.csproj.AssemblyReference.cache
+C:\Users\hdner\OneDrive\Área de Trabalho\POO\Teste Laboratório 16-05\Teste Laboratório 16-05\obj\Debug\Teste Laboratório 16-05.csproj.SuggestedBindingRedirects.cache
+C:\Users\hdner\OneDrive\Área de Trabalho\POO\Teste Laboratório 16-05\Teste Laboratório 16-05\obj\Debug\Teste Laboratório 16-05.csproj.CoreCompileInputs.cache
+C:\Users\hdner\OneDrive\Área de Trabalho\POO\Teste Laboratório 16-05\Teste Laboratório 16-05\obj\Debug\Teste Laboratório 16-05.exe
+C:\Users\hdner\OneDrive\Área de Trabalho\POO\Teste Laboratório 16-05\Teste Laboratório 16-05\obj\Debug\Teste Laboratório 16-05.pdb

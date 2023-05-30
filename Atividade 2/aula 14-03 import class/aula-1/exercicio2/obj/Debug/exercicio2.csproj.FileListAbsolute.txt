@@ -1,0 +1,8 @@
+C:\Users\hdner\OneDrive\Área de Trabalho\POO\Atividade 2\aula 14-03 import class\aula-1\exercicio2\bin\Debug\exercicio2.exe.config
+C:\Users\hdner\OneDrive\Área de Trabalho\POO\Atividade 2\aula 14-03 import class\aula-1\exercicio2\bin\Debug\exercicio2.exe
+C:\Users\hdner\OneDrive\Área de Trabalho\POO\Atividade 2\aula 14-03 import class\aula-1\exercicio2\bin\Debug\exercicio2.pdb
+C:\Users\hdner\OneDrive\Área de Trabalho\POO\Atividade 2\aula 14-03 import class\aula-1\exercicio2\obj\Debug\exercicio2.csproj.AssemblyReference.cache
+C:\Users\hdner\OneDrive\Área de Trabalho\POO\Atividade 2\aula 14-03 import class\aula-1\exercicio2\obj\Debug\exercicio2.csproj.SuggestedBindingRedirects.cache
+C:\Users\hdner\OneDrive\Área de Trabalho\POO\Atividade 2\aula 14-03 import class\aula-1\exercicio2\obj\Debug\exercicio2.csproj.CoreCompileInputs.cache
+C:\Users\hdner\OneDrive\Área de Trabalho\POO\Atividade 2\aula 14-03 import class\aula-1\exercicio2\obj\Debug\exercicio2.exe
+C:\Users\hdner\OneDrive\Área de Trabalho\POO\Atividade 2\aula 14-03 import class\aula-1\exercicio2\obj\Debug\exercicio2.pdb

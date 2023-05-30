@@ -1,0 +1,8 @@
+C:\Users\hdner\OneDrive\Área de Trabalho\POO\novo conceito 28-03\novo conceito 28-03\bin\Debug\novo conceito 28-03.exe.config
+C:\Users\hdner\OneDrive\Área de Trabalho\POO\novo conceito 28-03\novo conceito 28-03\bin\Debug\novo conceito 28-03.exe
+C:\Users\hdner\OneDrive\Área de Trabalho\POO\novo conceito 28-03\novo conceito 28-03\bin\Debug\novo conceito 28-03.pdb
+C:\Users\hdner\OneDrive\Área de Trabalho\POO\novo conceito 28-03\novo conceito 28-03\obj\Debug\novo conceito 28-03.csproj.AssemblyReference.cache
+C:\Users\hdner\OneDrive\Área de Trabalho\POO\novo conceito 28-03\novo conceito 28-03\obj\Debug\novo conceito 28-03.csproj.SuggestedBindingRedirects.cache
+C:\Users\hdner\OneDrive\Área de Trabalho\POO\novo conceito 28-03\novo conceito 28-03\obj\Debug\novo conceito 28-03.csproj.CoreCompileInputs.cache
+C:\Users\hdner\OneDrive\Área de Trabalho\POO\novo conceito 28-03\novo conceito 28-03\obj\Debug\novo conceito 28-03.exe
+C:\Users\hdner\OneDrive\Área de Trabalho\POO\novo conceito 28-03\novo conceito 28-03\obj\Debug\novo conceito 28-03.pdb

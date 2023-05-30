@@ -1,0 +1,8 @@
+C:\Users\hdner\OneDrive\Área de Trabalho\POO\TesteSala\TesteSala\bin\Debug\TesteSala.exe.config
+C:\Users\hdner\OneDrive\Área de Trabalho\POO\TesteSala\TesteSala\bin\Debug\TesteSala.exe
+C:\Users\hdner\OneDrive\Área de Trabalho\POO\TesteSala\TesteSala\bin\Debug\TesteSala.pdb
+C:\Users\hdner\OneDrive\Área de Trabalho\POO\TesteSala\TesteSala\obj\Debug\TesteSala.csproj.AssemblyReference.cache
+C:\Users\hdner\OneDrive\Área de Trabalho\POO\TesteSala\TesteSala\obj\Debug\TesteSala.csproj.SuggestedBindingRedirects.cache
+C:\Users\hdner\OneDrive\Área de Trabalho\POO\TesteSala\TesteSala\obj\Debug\TesteSala.csproj.CoreCompileInputs.cache
+C:\Users\hdner\OneDrive\Área de Trabalho\POO\TesteSala\TesteSala\obj\Debug\TesteSala.exe
+C:\Users\hdner\OneDrive\Área de Trabalho\POO\TesteSala\TesteSala\obj\Debug\TesteSala.pdb

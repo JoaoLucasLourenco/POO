@@ -1,0 +1,8 @@
+C:\Users\hdner\OneDrive\Área de Trabalho\POO\TDATA\TDATA\bin\Debug\TDATA.exe.config
+C:\Users\hdner\OneDrive\Área de Trabalho\POO\TDATA\TDATA\bin\Debug\TDATA.exe
+C:\Users\hdner\OneDrive\Área de Trabalho\POO\TDATA\TDATA\bin\Debug\TDATA.pdb
+C:\Users\hdner\OneDrive\Área de Trabalho\POO\TDATA\TDATA\obj\Debug\TDATA.csproj.AssemblyReference.cache
+C:\Users\hdner\OneDrive\Área de Trabalho\POO\TDATA\TDATA\obj\Debug\TDATA.csproj.SuggestedBindingRedirects.cache
+C:\Users\hdner\OneDrive\Área de Trabalho\POO\TDATA\TDATA\obj\Debug\TDATA.csproj.CoreCompileInputs.cache
+C:\Users\hdner\OneDrive\Área de Trabalho\POO\TDATA\TDATA\obj\Debug\TDATA.exe
+C:\Users\hdner\OneDrive\Área de Trabalho\POO\TDATA\TDATA\obj\Debug\TDATA.pdb

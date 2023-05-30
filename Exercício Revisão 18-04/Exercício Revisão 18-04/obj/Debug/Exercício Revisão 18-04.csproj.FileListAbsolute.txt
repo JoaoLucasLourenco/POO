@@ -1,0 +1,8 @@
+C:\Users\hdner\OneDrive\Área de Trabalho\POO\Exercício Revisão 18-04\Exercício Revisão 18-04\bin\Debug\Exercício Revisão 18-04.exe.config
+C:\Users\hdner\OneDrive\Área de Trabalho\POO\Exercício Revisão 18-04\Exercício Revisão 18-04\bin\Debug\Exercício Revisão 18-04.exe
+C:\Users\hdner\OneDrive\Área de Trabalho\POO\Exercício Revisão 18-04\Exercício Revisão 18-04\bin\Debug\Exercício Revisão 18-04.pdb
+C:\Users\hdner\OneDrive\Área de Trabalho\POO\Exercício Revisão 18-04\Exercício Revisão 18-04\obj\Debug\Exercício Revisão 18-04.csproj.AssemblyReference.cache
+C:\Users\hdner\OneDrive\Área de Trabalho\POO\Exercício Revisão 18-04\Exercício Revisão 18-04\obj\Debug\Exercício Revisão 18-04.csproj.SuggestedBindingRedirects.cache
+C:\Users\hdner\OneDrive\Área de Trabalho\POO\Exercício Revisão 18-04\Exercício Revisão 18-04\obj\Debug\Exercício Revisão 18-04.csproj.CoreCompileInputs.cache
+C:\Users\hdner\OneDrive\Área de Trabalho\POO\Exercício Revisão 18-04\Exercício Revisão 18-04\obj\Debug\Exercício Revisão 18-04.exe
+C:\Users\hdner\OneDrive\Área de Trabalho\POO\Exercício Revisão 18-04\Exercício Revisão 18-04\obj\Debug\Exercício Revisão 18-04.pdb
